@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=SUSHIL%20KUMAR&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cloud%20%26%20DevSecOps%20%7C%20Azure%20%7C%20Terraform&descAlignY=62&descSize=19" width="100%" alt="Animated blue wave banner with Sushil Kumar's name and cloud DevSecOps focus" />
+<img src="./assets/blue-wave.gif" width="100%" alt="Animated blue wave banner with Sushil Kumar's name and Cloud DevSecOps focus" />
 
 <div align="center">
 
