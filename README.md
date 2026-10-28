@@ -19,7 +19,8 @@
 
 ```yaml
 Name: Sushil
-Focus: Azure Cloud Architecture & DevSecOps
+Role: Senior DevSecOps Engineer
+Experience: 17+ years in IT | 6+ years in Azure and DevSecOps
 Cloud: Microsoft Azure
 Core areas:
   - Enterprise landing zones, tenant governance, and identity
@@ -27,11 +28,11 @@ Core areas:
   - Hybrid networking and cloud migration strategy
   - Reliability, observability, disaster recovery, and FinOps
 Environment: Multi-subscription | Hybrid | Dev, UAT & Production
-Migration scope: 100+ applications
+Migration: Led 30+ on-premises workload migrations to Azure
 Guiding principles: Secure | Governed | Reliable | Scalable | Cost-optimized
 ```
 
-I focus on designing secure, well-governed Azure platforms and helping teams plan and deliver cloud infrastructure at enterprise scale.
+Senior DevSecOps and Azure Cloud Engineer with 17+ years in IT, including 6+ years focused on Azure infrastructure, DevOps automation, and cloud security. Experienced in designing secure Azure platforms, automating infrastructure with Terraform, and embedding security into CI/CD.
 
 ## 🏗️ What I Do Every Day
 
@@ -43,7 +44,7 @@ I focus on designing secure, well-governed Azure platforms and helping teams pla
 | 🛡️ **Governance & Identity** | Microsoft Entra ID · RBAC · Azure Policy · Initiatives · Subscription lifecycle |
 | 🌐 **Cloud Networking** | Hub-and-spoke · CIDR planning · Firewall and egress · Private connectivity · VPN and ExpressRoute |
 | 🔧 **Terraform & DevSecOps** | Reusable modules · Protected remote state · Validation · Secret scanning · Drift detection |
-| 🚚 **Cloud Migration** | Discovery · Assessment · Readiness · Cutover · Hypercare · 100+ application scope |
+| 🚚 **Cloud Migration** | 100+ application estate planning · Discovery · Readiness · Cutover · Hypercare · 30+ workloads migrated |
 | 📊 **Run & Optimize** | Azure Monitor · High availability · Backup and DR · RTO/RPO · FinOps |
 | 🤝 **Delivery Leadership** | Vendor scope · Acceptance criteria · RACI · Reviews · Knowledge transfer |
 
@@ -76,6 +77,41 @@ I focus on designing secure, well-governed Azure platforms and helping teams pla
 
 ---
 
+## 💼 Professional Experience
+
+### Senior DevSecOps Engineer · MAT India Technologies Pvt Ltd
+**Nov 2020 – Present**
+
+- Designed Landing Zone-aligned Azure hub-and-spoke networks, with isolated Dev, QA, Production, and AKS spokes.
+- Built reusable Terraform and Terragrunt infrastructure for networking, AKS, Key Vault, Storage, App Services, VMs, VMSS, and WAF-enabled Application Gateway.
+- Delivered AKS workloads with Docker, Helm, autoscaling, and high availability; implemented GitOps deployments with ArgoCD.
+- Built Azure DevOps and GitHub Actions pipelines with build, test, security scanning, approvals, and rollback strategies.
+- Added tfsec, tflint, Checkov, and Trivy pipeline gates, alongside Prisma Cloud, Snyk, and OWASP ZAP security checks.
+- Managed Azure RBAC, Azure Policy, network security, and Key Vault secrets and credential rotation.
+- Monitored platforms with Azure Monitor, Log Analytics, Prometheus, and Grafana, sustaining **99.9% availability**.
+
+### Cloud Engineer · Team Lease India Pvt Ltd
+**Oct 2018 – Nov 2020**
+
+- Managed Azure infrastructure for **50+ hosted academic and administrative services** against high-availability SLAs.
+- Led migration of **30+ on-premises workloads to Azure**, improving deployment frequency and reducing costs.
+- Automated Linux administration with Bash and configured Azure Monitor alerts and dashboards.
+
+### Linux Administrator · Sysnet Global Technologies Pvt Ltd
+**May 2014 – Sep 2018**
+
+- Administered RHEL, CentOS, and Ubuntu systems for enterprise clients in multi-tenant environments.
+- Performed system hardening, patching, and performance tuning; automated routine administration with Bash.
+- Managed network configuration, user access, and storage provisioning for enterprise client environments.
+
+### Customer Support Specialist (Technical) · HCL Infosystems Pvt Ltd
+**Aug 2007 – Apr 2014**
+
+- Provided L1/L2 support for hardware, software, networking, and Linux/Windows servers, resolving incidents within SLA.
+- Mentored junior staff and contributed to team SOPs and Bash scripting guidelines.
+
+---
+
 ## 🏗️ Cloud Platform Delivery
 
 | Area | Scope |
@@ -83,7 +119,7 @@ I focus on designing secure, well-governed Azure platforms and helping teams pla
 | ☁️ **Landing Zones & Governance** | Tenant and management-group hierarchy · Subscription boundaries · Entra ID · RBAC · Azure Policy |
 | 🌐 **Networking & Security** | Hub-and-spoke · Hybrid CIDR planning · Centralized inspection · Private connectivity · VPN / ExpressRoute |
 | 🔧 **Terraform & Pipelines** | Reusable modules · Encrypted remote state · Validation and scanning · Approvals · Drift detection |
-| 🚚 **Migration Programs** | 100+ application scope · Dev / UAT / Production · Discovery · Readiness · Cutover · Hypercare |
+| 🚚 **Migration Programs** | 100+ application estate planning · Dev / UAT / Production · 30+ on-premises workloads migrated |
 | 🛡️ **Reliability & Operations** | Availability and disaster recovery · Backup · RTO / RPO · Azure Monitor · Cost optimization |
 | 🤝 **Delivery & Governance** | Vendor deliverables · Acceptance criteria · RACI · Reviews · Documentation and handover |
 
