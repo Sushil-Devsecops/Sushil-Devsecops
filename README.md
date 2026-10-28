@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Sushil%20%7C%20Cloud%20%26%20DevSecOps&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Azure%20Landing%20Zones%20%7C%20Terraform%20%7C%20Enterprise%20Cloud%20Migration&descAlignY=58&descSize=15" width="100%" alt="Animated blue wave banner introducing Sushil, Cloud and DevSecOps" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=130&section=header" width="100%" alt="Decorative blue wave banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Azure+Cloud+%7C+DevSecOps+%7C+Terraform;Enterprise+Landing+Zones+%26+Governance;Secure+CI%2FCD+%7C+Cloud+Migration+%7C+FinOps)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&height=100&lines=Sushil+%7C+Cloud+%26+DevSecOps;Azure+Landing+Zones+%7C+Terraform;Enterprise+Cloud+Migration+%7C+FinOps)](https://git.io/typing-svg)
+
+</div>
 
 <br />
 
