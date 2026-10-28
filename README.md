@@ -82,33 +82,33 @@ Senior DevSecOps and Azure Cloud Engineer with 17+ years in IT, including 6+ yea
 ### Senior DevSecOps Engineer · MAT India Technologies Pvt Ltd
 **Nov 2020 – Present**
 
-- 🏗️ Designed Landing Zone-aligned Azure hub-and-spoke networks, with isolated Dev, QA, Production, and AKS spokes.
-- 🔧 Built reusable Terraform and Terragrunt infrastructure for networking, AKS, Key Vault, Storage, App Services, VMs, VMSS, and WAF-enabled Application Gateway.
-- 🚀 Delivered AKS workloads with Docker, Helm, autoscaling, and high availability; implemented GitOps deployments with ArgoCD.
-- 🔁 Built Azure DevOps and GitHub Actions pipelines with build, test, security scanning, approvals, and rollback strategies.
-- 🛡️ Added tfsec, tflint, Checkov, and Trivy pipeline gates, alongside Prisma Cloud, Snyk, and OWASP ZAP security checks.
-- 🔐 Managed Azure RBAC, Azure Policy, network security, and Key Vault secrets and credential rotation.
-- 📊 Monitored platforms with Azure Monitor, Log Analytics, Prometheus, and Grafana, sustaining **99.9% availability**.
+- 🔷 Designed Landing Zone-aligned Azure hub-and-spoke networks, with isolated Dev, QA, Production, and AKS spokes.
+- 🔷 Built reusable Terraform and Terragrunt infrastructure for networking, AKS, Key Vault, Storage, App Services, VMs, VMSS, and WAF-enabled Application Gateway.
+- 🔷 Delivered AKS workloads with Docker, Helm, autoscaling, and high availability; implemented GitOps deployments with ArgoCD.
+- 🔷 Built Azure DevOps and GitHub Actions pipelines with build, test, security scanning, approvals, and rollback strategies.
+- 🔷 Added tfsec, tflint, Checkov, and Trivy pipeline gates, alongside Prisma Cloud, Snyk, and OWASP ZAP security checks.
+- 🔷 Managed Azure RBAC, Azure Policy, network security, and Key Vault secrets and credential rotation.
+- 🔷 Monitored platforms with Azure Monitor, Log Analytics, Prometheus, and Grafana, sustaining **99.9% availability**.
 
 ### Cloud Engineer · Team Lease India Pvt Ltd
 **Oct 2018 – Nov 2020**
 
-- ☁️ Managed Azure infrastructure for **50+ hosted academic and administrative services** against high-availability SLAs.
-- 🚚 Led migration of **30+ on-premises workloads to Azure**, improving deployment frequency and reducing costs.
-- ⚙️ Automated Linux administration with Bash and configured Azure Monitor alerts and dashboards.
+- 🔷 Managed Azure infrastructure for **50+ hosted academic and administrative services** against high-availability SLAs.
+- 🔷 Led migration of **30+ on-premises workloads to Azure**, improving deployment frequency and reducing costs.
+- 🔷 Automated Linux administration with Bash and configured Azure Monitor alerts and dashboards.
 
 ### Linux Administrator · Sysnet Global Technologies Pvt Ltd
 **May 2014 – Sep 2018**
 
-- 🐧 Administered RHEL, CentOS, and Ubuntu systems for enterprise clients in multi-tenant environments.
-- 🔒 Performed system hardening, patching, and performance tuning; automated routine administration with Bash.
-- 🌐 Managed network configuration, user access, and storage provisioning for enterprise client environments.
+- 🔷 Administered RHEL, CentOS, and Ubuntu systems for enterprise clients in multi-tenant environments.
+- 🔷 Performed system hardening, patching, and performance tuning; automated routine administration with Bash.
+- 🔷 Managed network configuration, user access, and storage provisioning for enterprise client environments.
 
 ### Customer Support Specialist (Technical) · HCL Infosystems Pvt Ltd
 **Aug 2007 – Apr 2014**
 
-- 🧰 Provided L1/L2 support for hardware, software, networking, and Linux/Windows servers, resolving incidents within SLA.
-- 🤝 Mentored junior staff and contributed to team SOPs and Bash scripting guidelines.
+- 🔷 Provided L1/L2 support for hardware, software, networking, and Linux/Windows servers, resolving incidents within SLA.
+- 🔷 Mentored junior staff and contributed to team SOPs and Bash scripting guidelines.
 
 ---
 
@@ -127,11 +127,11 @@ Senior DevSecOps and Azure Cloud Engineer with 17+ years in IT, including 6+ yea
 
 ## ⚡ Platform Engineering Focus
 
-- 🧭 **Plan:** Align cloud strategy, application discovery, readiness, and migration waves.
-- 🏗️ **Build:** Establish governed Azure foundations, networking, identity, and reusable Terraform modules.
-- 🛡️ **Secure:** Apply least privilege, policy guardrails, pipeline checks, and controlled change approvals.
-- 📡 **Operate:** Monitor workloads, manage backup and recovery objectives, detect drift, and optimize cost.
-- 📈 **Improve:** Review delivery outcomes, document decisions, and support handover and team upskilling.
+- 🔷 **Plan:** Align cloud strategy, application discovery, readiness, and migration waves.
+- 🔷 **Build:** Establish governed Azure foundations, networking, identity, and reusable Terraform modules.
+- 🔷 **Secure:** Apply least privilege, policy guardrails, pipeline checks, and controlled change approvals.
+- 🔷 **Operate:** Monitor workloads, manage backup and recovery objectives, detect drift, and optimize cost.
+- 🔷 **Improve:** Review delivery outcomes, document decisions, and support handover and team upskilling.
 
 ---
 
