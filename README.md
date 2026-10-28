@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Sushil%20%7C%20DevSecOps&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Building%20secure%20and%20reliable%20software%20delivery&descAlignY=58&descSize=16" width="100%" alt="Animated blue wave banner introducing Sushil, DevSecOps" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Sushil%20%7C%20Cloud%20%26%20DevSecOps&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Azure%20Landing%20Zones%20%7C%20Terraform%20%7C%20Enterprise%20Cloud%20Migration&descAlignY=58&descSize=15" width="100%" alt="Animated blue wave banner introducing Sushil, Cloud and DevSecOps" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=DevSecOps+%7C+Automation+%7C+Cloud;Security+should+be+part+of+every+pipeline;Learning%2C+building%2C+and+shipping+securely)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Azure+Cloud+%7C+DevSecOps+%7C+Terraform;Enterprise+Landing+Zones+%26+Governance;Secure+CI%2FCD+%7C+Cloud+Migration+%7C+FinOps)](https://git.io/typing-svg)
 
 <br />
 
@@ -11,14 +11,39 @@
 
 </div>
 
-## 👋 Hey, I'm Sushil
+## 🙋‍♂️ About Me
 
-I'm a **Cloud and DevSecOps professional** focused on secure, governed, and reliable Azure platforms. My work spans enterprise landing zones, infrastructure automation, cloud migrations, and the operating practices that help teams deliver at scale.
+```yaml
+Name: Sushil
+Focus: Azure Cloud Architecture & DevSecOps
+Cloud: Microsoft Azure
+Core areas:
+  - Enterprise landing zones, tenant governance, and identity
+  - Terraform automation and secure CI/CD pipelines
+  - Hybrid networking and cloud migration strategy
+  - Reliability, observability, disaster recovery, and FinOps
+Environment: Multi-subscription | Hybrid | Dev, UAT & Production
+Migration scope: 100+ applications
+Guiding principles: Secure | Governed | Reliable | Scalable | Cost-optimized
+```
 
-- ☁️ **Azure enterprise architecture** across hybrid, on-premises, and multi-subscription environments
-- 🔐 **Security and governance by design** across identity, network, platform, and workloads
-- 🚀 **Infrastructure as Code and CI/CD** with reusable Terraform modules and controlled deployments
-- 📦 **Migration planning** for application estates across Dev, UAT, and Production
+I focus on designing secure, well-governed Azure platforms and helping teams plan and deliver cloud infrastructure at enterprise scale.
+
+## 🏗️ What I Do
+
+<div align="center">
+
+| Area | Focus |
+|:---|:---|
+| ☁️ **Azure Landing Zones** | Tenant and management-group hierarchy · Subscription boundaries · Platform and application foundations |
+| 🛡️ **Governance & Identity** | Microsoft Entra ID · RBAC · Azure Policy · Initiatives · Subscription lifecycle |
+| 🌐 **Cloud Networking** | Hub-and-spoke · CIDR planning · Firewall and egress · Private connectivity · VPN and ExpressRoute |
+| 🔧 **Terraform & DevSecOps** | Reusable modules · Protected remote state · Validation · Secret scanning · Drift detection |
+| 🚚 **Cloud Migration** | Discovery · Assessment · Readiness · Cutover · Hypercare · 100+ application scope |
+| 📊 **Run & Optimize** | Azure Monitor · High availability · Backup and DR · RTO/RPO · FinOps |
+| 🤝 **Delivery Leadership** | Vendor scope · Acceptance criteria · RACI · Reviews · Knowledge transfer |
+
+</div>
 
 ## ☁️ Cloud, Platform & DevSecOps
 
