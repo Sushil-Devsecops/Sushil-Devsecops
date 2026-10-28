@@ -29,7 +29,7 @@ Guiding principles: Secure | Governed | Reliable | Scalable | Cost-optimized
 
 I focus on designing secure, well-governed Azure platforms and helping teams plan and deliver cloud infrastructure at enterprise scale.
 
-## 🏗️ What I Do
+## 🏗️ What I Do Every Day
 
 <div align="center">
 
@@ -45,53 +45,55 @@ I focus on designing secure, well-governed Azure platforms and helping teams pla
 
 </div>
 
-## ☁️ Cloud, Platform & DevSecOps
-
-### Enterprise landing zones and governance
-- Design tenant, management-group, and subscription hierarchies for platform and application workloads.
-- Plan Microsoft Entra ID, RBAC groups, subscription onboarding/offboarding, Azure Policy and initiatives, and documented policy exemptions.
-- Apply Cloud Adoption Framework practices across **Strategy, Plan, Ready, Adopt, Govern, Secure, and Manage**.
-- Build governance with least-privilege access, clear ownership, and practical enterprise guardrails.
-
-### Azure networking and security
-- Design **hub-and-spoke** architectures with shared connectivity, centralized inspection, and controlled egress.
-- Plan IP address spaces and CIDRs across Azure and on-premises networks.
-- Implement network patterns using VNet peering, UDRs, Azure Firewall rules, Private DNS, Private Endpoints, VPN Gateway, and ExpressRoute.
-- Apply layered security across **identity, network, governance, and compute**.
-
-### Terraform and delivery pipelines
-- Automate Azure landing zones with reusable Terraform modules and secure remote state, including encryption and least-privilege access.
-- Integrate validation, linting, testing, secret scanning, cost checks, approvals, and drift detection into delivery pipelines.
-- Establish repository and pipeline practices such as protected main branches, mandatory pull requests, code owners, review policies, reusable templates, parallel jobs, and short-lived feature branches.
-- Plan deployment, rollback, and environment-specific workflows for Dev, UAT, and Production.
-
-### Cloud migration, reliability, and operations
-- Structure migration programmes for **100+ applications** across Dev, UAT, and Production in hybrid and multi-subscription environments.
-- Cover discovery, assessment, readiness, pre-/post-migration checklists, cutover, hypercare, and knowledge transfer.
-- Plan high availability and disaster recovery across primary and secondary regions, including LRS/ZRS/GRS, VM Scale Sets, and RTO/RPO objectives.
-- Use Azure Monitor for platform and workload observability.
-
-### FinOps, vendors, and teams
-- Identify cost-saving opportunities across idle resources, unattached disks, oversized compute, log ingestion, VM schedules, reservations, and backup retention.
-- Define vendor scopes, deliverables, acceptance criteria, dependencies, risks, RACI, escalation paths, technical evaluation, and transition plans.
-- Support delivery through sprint and weekly reviews, retrospectives, sign-offs, documentation handover, and team upskilling.
-
 ## 🧰 Tools & Technologies
 
 <div align="center">
 
-![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
+### ☁️ Cloud & Enterprise Platform
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-111827?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-111827?style=for-the-badge&logo=microsoftentra&logoColor=6264A7)
+
+### 🔧 Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-111827?style=for-the-badge&logo=terraform&logoColor=844FBA)
+
+### 🔁 CI/CD & Source Control
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-111827?style=for-the-badge&logo=azuredevops&logoColor=0078D7)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+
+### 📦 Containers, OS & Scripting
 ![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-111827?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
-![Terraform](https://img.shields.io/badge/Terraform-111827?style=for-the-badge&logo=terraform&logoColor=844FBA)
+![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Bash](https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 
 </div>
+
+---
+
+## 🏗️ Cloud Platform Delivery
+
+| Area | Scope |
+|:---|:---|
+| ☁️ **Landing Zones & Governance** | Tenant and management-group hierarchy · Subscription boundaries · Entra ID · RBAC · Azure Policy |
+| 🌐 **Networking & Security** | Hub-and-spoke · Hybrid CIDR planning · Centralized inspection · Private connectivity · VPN / ExpressRoute |
+| 🔧 **Terraform & Pipelines** | Reusable modules · Encrypted remote state · Validation and scanning · Approvals · Drift detection |
+| 🚚 **Migration Programs** | 100+ application scope · Dev / UAT / Production · Discovery · Readiness · Cutover · Hypercare |
+| 🛡️ **Reliability & Operations** | Availability and disaster recovery · Backup · RTO / RPO · Azure Monitor · Cost optimization |
+| 🤝 **Delivery & Governance** | Vendor deliverables · Acceptance criteria · RACI · Reviews · Documentation and handover |
+
+---
+
+## ⚡ Platform Engineering Focus
+
+- **Plan:** Align cloud strategy, application discovery, readiness, and migration waves.
+- **Build:** Establish governed Azure foundations, networking, identity, and reusable Terraform modules.
+- **Secure:** Apply least privilege, policy guardrails, pipeline checks, and controlled change approvals.
+- **Operate:** Monitor workloads, manage backup and recovery objectives, detect drift, and optimize cost.
+- **Improve:** Review delivery outcomes, document decisions, and support handover and team upskilling.
+
+---
 
 ## 📊 GitHub at a glance
 
